@@ -1,0 +1,4 @@
+# Ignore all checkpoint folders
+**/.ipynb_checkpoints/
+**/input/
+reg_glass_node/api_key.txt
